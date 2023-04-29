@@ -1,6 +1,6 @@
 # DBA-120-Final-Project
 
-###LAST UPDATED: ***4/3/2023***
+### LAST UPDATED: ***4/3/2023***
 
 This is my ERD for managing an RMA log for customers needing technical support for broken musical instruments.
 
